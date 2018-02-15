@@ -2,4 +2,4 @@ GIT IS A DISTRIBUTED VERSION CONTROL SYSTEM
 GIT IS FREE SOFTWARE DISTRIBUTED UNDER THE GPL
 GIT HAS A MUTABLE INDEX CALLED STAGE
 changes
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
